@@ -1,2 +1,2 @@
 # ordie-woof-wallet
-Browser extension wallet for Doginals
+Chrome Browser extension wallet for Doginals
