@@ -1,6 +1,6 @@
 const { Address, PrivateKey, Transaction } = require("bitcore-lib")
 const Mnemonic = require('bitcore-mnemonic')
-const __URL__ = 'https://wonky-ord.dogeord.io/';
+const __URL__ = 'https://dogecoin.earlyordies.com/';
 
 Transaction.DUST_AMOUNT = 1000000
 
